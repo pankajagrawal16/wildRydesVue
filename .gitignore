@@ -19,6 +19,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+awscli-bundle/
 
 #amplify
 amplify/\#current-cloud-backend
